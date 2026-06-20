@@ -23,7 +23,7 @@ Backend-focused Software Engineer from Costa Rica. I build production systems wi
  
 - 🌎 Based in **Costa Rica** · open to **remote** roles
 - 🎓 **B.Sc. in Information Systems Engineering** (Universidad Nacional de Costa Rica)
-- 🔭 Building **backend, data-extraction & AI/LLM** projects — see **[Filing Extractor](https://github.com/AndresUG04/filing-extractor)** below
+- 🔭 Building **backend, data-extraction & AI/LLM** projects — see **[JobTrack API](https://github.com/AndresUG04/jobtrack-api)** (Java/Spring) and **[Filing Extractor](https://github.com/AndresUG04/filing-extractor)** (Python/LLM) below
 - ⚙️ Into **LLM-assisted pipelines**: unstructured data (PDF/HTML/XML) → validated, structured datasets
 - 🌱 Currently learning **AWS (Cloud Practitioner)** and deepening **CI/CD & data pipelines**
 - 💬 Ask me about **Spring Boot, REST APIs, Spring Security, Python data pipelines, or integrating LLMs into apps**
@@ -111,6 +111,7 @@ Backend-focused Software Engineer from Costa Rica. I build production systems wi
  
 | Project | Stack | What it is |
 | :-- | :-- | :-- |
+| **[JobTrack API](https://github.com/AndresUG04/jobtrack-api)** | Java 21 · Spring Boot 3.5 · Spring Security · JWT · PostgreSQL · Flyway · JUnit/Mockito · Docker · GitHub Actions | Production-grade REST API to track job applications across their full lifecycle, with **JWT authentication**, per-user data isolation, an append-only **status-history audit log**, and statistics. Strict layered architecture, ownership enforced in a single guarded method, 19 pure-Mockito tests, multi-stage Docker build, and CI. |
 | **[Filing Extractor](https://github.com/AndresUG04/filing-extractor)** | Python · OpenAI · Pydantic · pdfplumber · BeautifulSoup · pytest · Docker · GitHub Actions | Production-quality pipeline that ingests unstructured SEC EDGAR filings (PDF, HTML, XML) and extracts **validated, structured datasets** via an OpenAI LLM. Format-agnostic parsing, Pydantic v2 validation, a field-level **evaluation harness**, 180+ pytest tests (~99% coverage), Docker, and CI. |
 | **[Research Management System](#)** *(CIEM – UCR)* | Java · Spring Boot · Spring Security · React · Oracle · JUnit/Mockito | Full-stack platform to manage and track research projects for a university research center. Built the authentication/authorization module from scratch and applied TDD. Delivered in a 6-person Scrum team and running in production. |
 | **[Oportunia – AI Internship Matching](#)** | Kotlin · MongoDB · OpenAI API | Mobile app that connects students with internships using AI-generated recommendations and profile suggestions. Built the backend and the LLM integration with structured prompts. |
