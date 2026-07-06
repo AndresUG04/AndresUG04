@@ -1,15 +1,15 @@
 <h1 align="center"> 👋 </h1>
 <div align="center">
   
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFC700&height=250&section=header&text=Hello,%20I'm%20Andrés%20Ureña!&fontSize=50&fontColor=2B2B2B&animation=twinkling&fontAlignY=38&desc=Software%20Engineer%20|%20Backend%20&%20Data%20|%20AI%2FLLM%20🧑‍💻&descAlignY=55&descSize=20&descColor=2B2B2B)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:FFC700&height=250&section=header&text=Hello,%20I'm%20Andrés%20Ureña!&fontSize=50&fontColor=2B2B2B&animation=twinkling&fontAlignY=38&desc=Full-Stack%20Software%20Engineer%20|%20Front-End%20Focused%20|%20JavaScript%20&%20React%20🧑‍💻&descAlignY=55&descSize=20&descColor=2B2B2B)
 
-**Java · Spring Boot · Python · React · Node.js · AI/LLM Integration**
+**JavaScript · TypeScript · React · Next.js · Node.js · HTML · CSS**
 
 
 <h2><b></b></h2>
 
 </div>
-Backend-focused Software Engineer from Costa Rica. I build production systems with <strong>Java and Spring Boot</strong> — from a research-management platform for a university center to a CRM re-platforming for an international investigative-journalism organization. Lately I work a lot with <strong>AI/LLM integrations</strong> and <strong>data-extraction pipelines</strong>, which is where I find the most interesting problems — most recently <strong>Filing Extractor</strong>, a Python pipeline that turns unstructured filings (PDF/HTML/XML) into validated, structured datasets using LLMs, with a full test suite, Docker, and CI. Comfortable across the stack (React, Angular, Node) and serious about clean architecture and automated testing.
+Full-Stack Software Engineer from Costa Rica with a strong front-end focus. I build dynamic, responsive web applications with <strong>JavaScript, React, TypeScript, HTML, and CSS</strong> — turning requirements into polished, custom interfaces. I've built a research-management platform, a job-tracking app with a modern <strong>Next.js + TypeScript</strong> front end, and helped re-platform a CRM for an international organization. Comfortable across the whole stack (Node.js, REST APIs, and backend services in Java/Spring), I care about clean code, responsive design, and shipping quickly in fast-paced, collaborative teams.
 
 
 <div align="center">
@@ -19,53 +19,38 @@ Backend-focused Software Engineer from Costa Rica. I build production systems wi
 </div>
 <h2><b></b></h2>
  
-### 👨‍💻 About Me
+###  About Me
  
-- 🌎 Based in **Costa Rica** · open to **remote** roles
-- 🎓 **B.Sc. in Information Systems Engineering** (Universidad Nacional de Costa Rica)
-- 🔭 Building **backend, data-extraction & AI/LLM** projects — see **[JobTrack API](https://github.com/AndresUG04/jobtrack-api)** (Java/Spring) and **[Filing Extractor](https://github.com/AndresUG04/filing-extractor)** (Python/LLM) below
-- ⚙️ Into **LLM-assisted pipelines**: unstructured data (PDF/HTML/XML) → validated, structured datasets
-- 🌱 Currently learning **AWS (Cloud Practitioner)** and deepening **CI/CD & data pipelines**
-- 💬 Ask me about **Spring Boot, REST APIs, Spring Security, Python data pipelines, or integrating LLMs into apps**
-- 🗣️ **English** (B2+) · **Spanish** (native)
+-  Based in **Costa Rica** · open to **remote** roles
+-  **B.Sc. in Information Systems Engineering** (Universidad Nacional de Costa Rica)
+-  Front-end focused, full-stack capable — **JavaScript, React, TypeScript, HTML, CSS** on the front; **Node.js, Java/Spring** on the back
+-  **English** (B2+) · **Spanish** (native)
 - 📫 Reach me: **urenaandres09@gmail.com**
 ---
  
 ### 🛠️ Tech Stack
  
-**Languages**
+**Front-End**
  
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
-![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-025E8C?style=for-the-badge&logo=postgresql&logoColor=white)
-![C++](https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
- 
-**Backend**
- 
-![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
-![Spring Security](https://img.shields.io/badge/Spring%20Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
-![JPA / Hibernate](https://img.shields.io/badge/JPA%2FHibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
- 
-**Data & Pipelines**
- 
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
-![pdfplumber](https://img.shields.io/badge/pdfplumber-3776AB?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)
-![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=for-the-badge&logo=python&logoColor=white)
-![Data Extraction](https://img.shields.io/badge/Data%20Extraction%20%2F%20ETL-555555?style=for-the-badge)
- 
-**Frontend**
- 
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![Angular](https://img.shields.io/badge/Angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+ 
+**Back-End**
+ 
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
  
 **Databases**
  
@@ -76,48 +61,33 @@ Backend-focused Software Engineer from Costa Rica. I build production systems wi
  
 **Testing**
  
+![Jest](https://img.shields.io/badge/Jest-%23C21325.svg?style=for-the-badge&logo=jest&logoColor=white)
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
-![Mockito](https://img.shields.io/badge/Mockito-78A641?style=for-the-badge)
 ![Selenium](https://img.shields.io/badge/Selenium-%2343B02A?style=for-the-badge&logo=selenium&logoColor=white)
  
-**DevOps & Cloud**
+**DevOps & Tools**
  
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
- 
-**AI / LLMs**
- 
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Prompt Engineering](https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge)
-![LLM Data Extraction](https://img.shields.io/badge/LLM%20Data%20Extraction-10A37F?style=for-the-badge)
- 
-**Tools**
- 
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-346ac1?style=for-the-badge&logo=android-studio&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
  
 ---
  
-### 🚀 Featured Projects
- <!-- Replace the `#` links with your repo URLs. For private/organization projects, leave the description without a link — it still counts. -->
+###  Featured Projects
  
 | Project | Stack | What it is |
 | :-- | :-- | :-- |
-| **[JobTrack API](https://github.com/AndresUG04/jobtrack-api)** | Java 21 · Spring Boot 3.5 · Spring Security · JWT · PostgreSQL · Flyway · JUnit/Mockito · Docker · GitHub Actions | Production-grade REST API to track job applications across their full lifecycle, with **JWT authentication**, per-user data isolation, an append-only **status-history audit log**, and statistics. Strict layered architecture, ownership enforced in a single guarded method, 19 pure-Mockito tests, multi-stage Docker build, and CI. |
-| **[JobTrack Frontend](https://github.com/AndresUG04/jobtrack-frontend)** | Next.js · TypeScript · React · Tailwind · React Hook Form · Zod · JWT Auth | Full-stack job tracker frontend consuming the JobTrack API. Features: user authentication, CRUD operations for job applications, status tracking, statistics dashboard, and responsive design. Deployed on Vercel. |
-| **[Filing Extractor](https://github.com/AndresUG04/filing-extractor)** | Python · OpenAI · Pydantic · pdfplumber · BeautifulSoup · pytest · Docker · GitHub Actions | Production-quality pipeline that ingests unstructured SEC EDGAR filings (PDF, HTML, XML) and extracts **validated, structured datasets** via an OpenAI LLM. Format-agnostic parsing, Pydantic v2 validation, a field-level **evaluation harness**, 180+ pytest tests (~99% coverage), Docker, and CI. |
-| **[Research Management System](#)** *(CIEM – UCR)* | Java · Spring Boot · Spring Security · React · Oracle · JUnit/Mockito | Full-stack platform to manage and track research projects for a university research center. Built the authentication/authorization module from scratch and applied TDD. Delivered in a 6-person Scrum team and running in production. |
-| **[Oportunia – AI Internship Matching](#)** | Kotlin · MongoDB · OpenAI API | Mobile app that connects students with internships using AI-generated recommendations and profile suggestions. Built the backend and the LLM integration with structured prompts. |
-| **[Homely – Domestic Work Platform](#)** | React · Node.js · PostgreSQL · Supabase | Web platform to formalize domestic-work labor relations, designed to scale across LATAM. Co-built the REST API and data model for multiple user roles. |
-| **CRM Re-platforming** *(El CLIP – remote internship)* | Angular · Laravel · PHP · MySQL | Migrated a legacy low-code CRM to a modern stack for an international investigative-journalism organization — rebuilding the application on top of the existing database, with REST endpoints, auth, and query optimization. 100% remote. |
+| **[JobTrack Frontend](https://github.com/AndresUG04/jobtrack-frontend)** | Next.js · TypeScript · React · Tailwind · React Hook Form · Zod | Responsive web app to manage job applications end-to-end: JWT auth, full CRUD, status tracking with history, and a statistics dashboard. Clean component architecture, client + server-side validation, loading/error states, and toasts. Deployed on Vercel. |
+| **[JobTrack API](https://github.com/AndresUG04/jobtrack-api)** | Java 21 · Spring Boot 3.5 · Spring Security · JWT · PostgreSQL · Docker · CI | Production-grade REST API powering the JobTrack front end, with JWT authentication, per-user data isolation, an append-only status-history audit log, and statistics. 19 unit tests, multi-stage Docker build, and CI. |
+| **[Research Management System](#)** *(CIEM – UCR)* | React · JavaScript · Java · Spring Boot · Oracle | Full-stack platform to manage and track research projects for a university research center. Built the React front end and the authentication module, in a 6-person Scrum team. Running in production. |
+| **[Homely – Domestic Work Platform](#)** | React · Node.js · PostgreSQL · Supabase | Web platform to formalize domestic-work labor relations, designed to scale across LATAM. Co-built the React front end and the REST API for multiple user roles. |
+| **CRM Re-platforming** *(El CLIP – remote internship)* | Angular · TypeScript · Laravel · MySQL | Re-platformed a legacy low-code CRM to a modern **Angular + TypeScript** front end for an international investigative-journalism organization, rebuilding the UI on top of the existing database. 100% remote. |
+| **[Filing Extractor](https://github.com/AndresUG04/filing-extractor)** | Python · OpenAI · Pydantic · pytest · Docker · CI | Production-quality pipeline that turns unstructured SEC filings (PDF, HTML, XML) into validated, structured datasets via an LLM. 180+ tests (~99% coverage), Docker, and CI. |
  
 ---
  
